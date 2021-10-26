@@ -4,3 +4,21 @@
 .container, .content {
 width: 100%;
 }
+
+.sec1, .sec2{
+    width: 100%;
+}
+.my-list, .img-1, .img-2, .heading{
+    display: inline-block;
+    width: 49%;
+}
+.my-list{
+    vertical-align: top;
+}
+.img-1 img, .img-2 img{
+    width: 99%;
+}
+.heading{
+    vertical-align: middle;
+    text-align: center;
+}
